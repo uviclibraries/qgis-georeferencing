@@ -13,7 +13,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - **Use a second monitor or print out the workshop activities**
 - **Use mouse with a scroll wheel**
 
-Please go through the <a href="images/QGIS_Georeferencing_Exercise.pdf" target="_blank">
+Please go through the <a href="images/QGIS_GeoreferencingWorkshop_Exercise.pdf" target="_blank">
   Workshop Exercise
 </a>
 
