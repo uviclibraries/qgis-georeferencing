@@ -10,7 +10,7 @@ Please review the following <a href="images/QGIS_Georeferencing_IntroductorySlid
   Introductory Slides
 </a>
 
-[Download](images/QGIS_GeoreferencingWorkshop_Data.zip){:target="_blank"} workshop data
+[Download](images/QGIS_GeoreferencingWorkshopData.zip){:target="_blank"} workshop data
 
 [NEXT STEP: Workshop Exercise](Activity.html){: .btn .btn-blue }
 
