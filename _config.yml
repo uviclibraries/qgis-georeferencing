@@ -20,7 +20,7 @@ aux_links:
 
 aux_links_new_tab: true
 
-callouts:
+callouts: 
   highlight:
     color: yellow
   important:
